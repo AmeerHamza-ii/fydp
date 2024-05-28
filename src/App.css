@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0%;
+}
+.firstdiv {
+  /* background: #044C92; */
+  color: white;
+}
+.main {
+  display: flex;
+  flex-direction: row;
+}
+.seconddiv {
+  margin-left: 4%;
+}
+.secondspan {
+  margin-left: 10px;
+}
+.text .ListItemText {
+  margin-left: 10px;
+}
+
+.text {
+  color: white;
+}
+.sidebarandforecatingtypes {
+  display: flex;
+  flex-direction: row;
+}

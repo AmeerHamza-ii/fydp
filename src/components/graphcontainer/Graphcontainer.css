@@ -1,0 +1,24 @@
+.maindivvv {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+}
+.combinediv {
+  display: flex;
+  flex-direction: row;
+  margin-top: 5%;
+}
+.combinediv .second {
+  margin-left: 20%;
+}
+
+.totalcard {
+  padding-bottom: 2%;
+}
+.a {
+  display: flex;
+  flex-direction: row;
+}
+.dropdowns {
+  margin-left: 30%;
+}

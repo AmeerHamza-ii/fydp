@@ -1,0 +1,30 @@
+.innerdiv {
+  width: 15%;
+  padding: 2%;
+  border-radius: 2px;
+  margin-top: 2%;
+}
+.outerdiv {
+  margin-top: 6%;
+}
+.selectcategory {
+  padding: 4%;
+  margin-bottom: 3%;
+}
+.charts {
+  margin-left: 17%;
+  margin-top: 6%;
+}
+.charts div {
+  width: 99%;
+  margin: auto;
+  margin-bottom: 4%;
+  font-weight: bold;
+}
+.selectcategory:focus option {
+  background-color: black;
+  color: white;
+}
+.selectcategory {
+  cursor: pointer;
+}
